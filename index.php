@@ -25,3 +25,7 @@ for ($myVar6 = 1; $myVar6 <= 10; $myVar6+= 0.5) {
     echo $myVar6 ."<br><br>";
 }
 
+for ($i = 0; $i < 15; $i++) {
+    echo  "On y arrive presque." ."<br>";
+}
+
